@@ -234,7 +234,7 @@ footer {
 
 .social-networks i {
     font-size: 160%;
-    margin: 1px;
+    margin: 1%;
     padding: 5%;
     color: #3a3a3a;
 }
@@ -245,7 +245,7 @@ footer {
     clear: both;
     line-height: 0;
     column-count: 4;
-    column-gap: 0px;
+    column-gap: 0;
 }
 
 #photos > img {
@@ -264,11 +264,11 @@ footer {
     }
 
     #welcome {
-        padding: 30px o;
+        padding: 30px 0;
         margin: 0;
     }
 
-    #left-about, right-about {
+    #left-about, #right-about {
         width: 100%;
         float: left;
         padding: 0;
@@ -278,7 +278,7 @@ footer {
         clear: both;
         width: 100%;
         float: left;
-        padding:0;
+        padding: 0;
     }
 
     hr {
